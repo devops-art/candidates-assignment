@@ -1,2 +1,2 @@
 name: Arthur Shein
-email: archimail@gmail.com
+email: arthur@shein.co.il
